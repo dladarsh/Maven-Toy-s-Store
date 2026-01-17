@@ -15,6 +15,9 @@ The following report provides a strategic evaluation of Maven Toys' performance 
 Analysis of these KPIs reveals a robust period of growth, with sales and unit volume both achieving a 5% year-over-year increase. However, a critical strategic observation is the 4% profit growth, which marginally lags behind the 5% revenue expansion. This 1% disparity suggests a slight compression in unit profitability or an uptick in operational overhead. To ensure future sustainability, the organization must prioritize high-margin inventory to prevent volume-driven success from being offset by rising cost structures. This strategic refinement begins with a granular understanding of our primary revenue drivers: the product categories.
 
 
+<img width="1388" height="890" alt="image" src="https://github.com/user-attachments/assets/92c8b6f2-7601-42c6-904c-6b9ed01f63db" />
+
+
 --------------------------------------------------------------------------------
 
 
@@ -60,7 +63,11 @@ Identifying "hero products" allows the organization to protect core revenue stre
 |Animal Figures|	39,089|	$507,766.10|	$117,267.00|
 |Dart Gun|	31,588|	$505,092.10|	$126,352.00|
 
-A comparative analysis of "Colorbuds" and "Lego Bricks" highlights a vital strategic distinction between volume and value. While Lego Bricks is the highest revenue generator ($2.38M), it operates on a relatively thin profit margin of approximately 12.5%. Conversely, Colorbuds, part of the Electronics category, generates $1.56M in sales but yields a significant profit of $834.9K, representing a high-efficiency margin of 53.3%. This implies that while "Toys" like Legos drive high-volume traffic and brand visibility, high-margin Electronics are more valuable for actual bottom-line growth. Balancing these traffic-drivers with high-margin profit-drivers is essential for long-term health, particularly as consumer demand shifts across the annual calendar.
+A comparative analysis of "Colorbuds" and "Lego Bricks" highlights a vital strategic distinction between volume and value. While Lego Bricks is the highest revenue generator ($2.38M), it operates on a relatively thin profit margin of approximately 12.5%. Conversely, Colorbuds, part of the Electronics category, generates $1.56 million in sales but yields a significant profit of $ 834,900, representing a high-efficiency margin of 53.3%. This implies that while "Toys" like Legos drive high-volume traffic and brand visibility, high-margin Electronics are more valuable for actual bottom-line growth. Balancing these traffic drivers with high-margin profit drivers is essential for long-term health, particularly as consumer demand shifts across the annual calendar.
+
+
+<img width="1334" height="850" alt="image" src="https://github.com/user-attachments/assets/2664929a-570d-4c8f-b655-f70c361d1371" />
+
 
 
 --------------------------------------------------------------------------------
